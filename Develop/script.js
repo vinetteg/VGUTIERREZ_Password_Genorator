@@ -107,7 +107,6 @@ function generatePassword() {
   if (charSpec) {
     results = results.concat(character);
   }
-  console.log(results);
 
   for (var i = 0; i < charNumber; i++) {
     user.push(results[Math.floor(Math.random() * results.length)]);
@@ -117,7 +116,7 @@ function generatePassword() {
 function writePassword() {
   var password = generatePassword();
   var passwordText = document.querySelector("#password");
-  passwordText.textContent = password;
+  passwordText.value = password;
   // Add event listener to generate button
 }
 generateBtn.addEventListener("click", writePassword);
