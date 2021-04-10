@@ -10,7 +10,7 @@ Push the "Generate Passwoord," button to try it out!
 
 ## Screen Image
 
-![portfolio menu](Develop/images/screenimage.png)
+![portfolio menu](assets/images/screenimage.png)
 
 Link to application:
 [https://vinetteg.github.io/VGUTIERREZ_Password_Genorator/]
