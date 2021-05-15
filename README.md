@@ -8,9 +8,15 @@ This is a fully functioning password generator. It can produce passwords that in
 
 Push the "Generate Passwoord," button to try it out!
 
-## Screen Image
+## Technologies Used
+
+[Github](https://github.com/vinetteg/Javascript_Fundamentals_Quiz) <br>
+
+## Mockup
 
 ![portfolio menu](assets/images/screenimage.png)
 
-Link to application:
-[https://vinetteg.github.io/VGUTIERREZ_Password_Genorator/]
+## Link To Application
+
+[Deployed Web Page](https://vinetteg.github.io/Javascript_Fundamentals_Quiz/) <br>
+[Repo](https://github.com/vinetteg/Javascript_Fundamentals_Quiz)
